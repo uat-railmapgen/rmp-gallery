@@ -1,1 +1,74 @@
-{"shanghai":{"contributors":["3353040"],"name":{"en":"Shanghai","ko":"상해","zh-Hans":"上海","zh-Hant":"上海"}}}
+{
+    "beijing": {
+        "contributors": [
+            "59787082"
+        ],
+        "name": {
+            "en": "Beijing",
+            "zh-CN": "北京",
+            "zh-Hans": "北京",
+            "zh-Hant": "北京",
+            "fr": "Pékin",
+            "ja": "北京",
+            "ko": "베이징"
+        },
+        "lastUpdateOn": 1683810518708
+    },
+    "brussels": {
+        "contributors": [
+            "92020676"
+        ],
+        "name": {
+            "en": "Brussels",
+            "fr": "Bruxelles",
+            "zh-Hans": "布鲁塞尔",
+            "zh-TW": "布魯塞爾"
+        },
+        "lastUpdateOn": 1683810518708
+    },
+    "changchun": {
+        "contributors": [
+            "59787082"
+        ],
+        "name": {
+            "en": "Changchun",
+            "zh-CN": "长春"
+        },
+        "lastUpdateOn": 1683969288399
+    },
+    "chongqing": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Chongqing",
+            "zh-CN": "重庆",
+            "zh-HK": "重慶"
+        },
+        "lastUpdateOn": 1683810518708
+    },
+    "hongkong": {
+        "contributors": [
+            "123239445"
+        ],
+        "name": {
+            "en": "Hong Kong",
+            "zh-Hans": "香港",
+            "zh-Hant": "香港",
+            "ko": "홍콩"
+        },
+        "lastUpdateOn": 1683810518708
+    },
+    "shanghai": {
+        "contributors": [
+            "3353040"
+        ],
+        "name": {
+            "en": "Shanghai",
+            "ko": "상해",
+            "zh-Hans": "上海",
+            "zh-Hant": "上海"
+        },
+        "lastUpdateOn": 1683810518708
+    }
+}

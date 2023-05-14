@@ -1,0 +1,20 @@
+{
+    "name": {
+        "en": "Brussels",
+        "fr": "Bruxelles",
+        "zh-Hans": "布鲁塞尔",
+        "zh-TW": "布魯塞爾"
+    },
+    "desc": {
+        "en": ""
+    },
+    "reference": "https://www.stib-mivb.be/index.htm?l=en",
+    "updateHistory": [
+        {
+            "id": 92020676,
+            "issueNumber": 17,
+            "reason": "Add template of Brussels",
+            "time": 1683810518708
+        }
+    ]
+}
