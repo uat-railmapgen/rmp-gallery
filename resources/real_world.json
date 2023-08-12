@@ -1,7 +1,9 @@
 {
     "beijing": {
         "contributors": [
-            "59787082"
+            "108216173",
+            "59787082",
+            "140052207"
         ],
         "name": {
             "en": "Beijing",
@@ -12,7 +14,17 @@
             "ja": "北京",
             "ko": "베이징"
         },
-        "lastUpdateOn": 1683810518708
+        "lastUpdateOn": 1691401718711
+    },
+    "brisbane": {
+        "contributors": [
+            "134931870"
+        ],
+        "name": {
+            "en": "Brisbane",
+            "zh-CN": "布里斯班"
+        },
+        "lastUpdateOn": 1685715126839
     },
     "brussels": {
         "contributors": [
@@ -44,7 +56,7 @@
             "en": "Changsha",
             "zh-Hans": "长沙"
         },
-        "lastUpdateOn": 1684245327649
+        "lastUpdateOn": 1686234056926
     },
     "changzhou": {
         "contributors": [
@@ -54,9 +66,22 @@
             "en": "Changzhou",
             "ko": "창저우",
             "zh-Hans": "常州",
-            "zh-Hant": "常州"
+            "zh-Hant": "常州",
+            "ja": "常州"
         },
-        "lastUpdateOn": 1684070526793
+        "lastUpdateOn": 1691550971134
+    },
+    "chengdu": {
+        "contributors": [
+            "123239445"
+        ],
+        "name": {
+            "en": "Chengdu",
+            "ko": "청두",
+            "zh-Hans": "成都",
+            "zh-Hant": "成都"
+        },
+        "lastUpdateOn": 1684666268937
     },
     "chongqing": {
         "contributors": [
@@ -67,7 +92,93 @@
             "zh-CN": "重庆",
             "zh-HK": "重慶"
         },
-        "lastUpdateOn": 1684158673359
+        "lastUpdateOn": 1691717314045
+    },
+    "copenhagen": {
+        "contributors": [
+            "140373461"
+        ],
+        "name": {
+            "en": "Copenhagen"
+        },
+        "lastUpdateOn": 1691370306134
+    },
+    "dalian": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Dalian",
+            "zh-CN": "大连",
+            "zh-Hant": "大連"
+        },
+        "lastUpdateOn": 1691566893499
+    },
+    "foshan": {
+        "contributors": [
+            "123239445",
+            "139970605"
+        ],
+        "name": {
+            "en": "Foshan",
+            "ko": "포산",
+            "zh-Hans": "佛山",
+            "zh-Hant": "佛山",
+            "ja": "仏山"
+        },
+        "lastUpdateOn": 1691646566192
+    },
+    "guangzhou": {
+        "contributors": [
+            "139970605"
+        ],
+        "name": {
+            "en": "Guangzhou"
+        },
+        "lastUpdateOn": 1689779512737
+    },
+    "guiyang": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Guiyang",
+            "zh-CN": "贵阳",
+            "zh-HK": "贵阳"
+        },
+        "lastUpdateOn": 1686046685148
+    },
+    "hangzhou": {
+        "contributors": [
+            "123239445",
+            "135239140"
+        ],
+        "name": {
+            "zh": "杭州",
+            "en": "Hangzhou"
+        },
+        "lastUpdateOn": 1690613220812
+    },
+    "harbin": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Harbin",
+            "zh-CN": "哈尔滨",
+            "zh-HK": "哈爾濱"
+        },
+        "lastUpdateOn": 1691632429090
+    },
+    "hohhot": {
+        "contributors": [
+            "138973971"
+        ],
+        "name": {
+            "en": "Hohhot",
+            "zh-Hans": "呼和浩特"
+        },
+        "lastUpdateOn": 1689902547612
     },
     "hongkong": {
         "contributors": [
@@ -77,9 +188,10 @@
             "en": "Hong Kong",
             "zh-Hans": "香港",
             "zh-Hant": "香港",
-            "ko": "홍콩"
+            "ko": "홍콩",
+            "ja": "香港"
         },
-        "lastUpdateOn": 1683810518708
+        "lastUpdateOn": 1689560431633
     },
     "kunming": {
         "contributors": [
@@ -94,17 +206,71 @@
         },
         "lastUpdateOn": 1684570408266
     },
+    "luoyang": {
+        "contributors": [
+            "138973971"
+        ],
+        "name": {
+            "en": "Luoyang"
+        },
+        "lastUpdateOn": 1689833194722
+    },
+    "macao": {
+        "contributors": [
+            "59787082"
+        ],
+        "name": {
+            "en": "Macao",
+            "zh-Hans": "澳门",
+            "zh-Hant": "澳門"
+        },
+        "lastUpdateOn": 1688730553409
+    },
+    "nanning": {
+        "contributors": [
+            "123074394",
+            "140794505"
+        ],
+        "name": {
+            "en": "Nanning",
+            "zh-CN": "南宁",
+            "zh-Hant": "南寧"
+        },
+        "lastUpdateOn": 1691478825746
+    },
+    "pyongyang": {
+        "contributors": [
+            "59347549"
+        ],
+        "name": {
+            "en": "Pyongyang",
+            "zh-Hans": "平壤",
+            "ko": "평양"
+        },
+        "lastUpdateOn": 1686454852861
+    },
+    "qingdao": {
+        "contributors": [
+            "138875021"
+        ],
+        "name": {
+            "en": "Qingdao",
+            "zh-Hans": "青岛"
+        },
+        "lastUpdateOn": 1689476150608
+    },
     "shanghai": {
         "contributors": [
             "3353040"
         ],
         "name": {
             "en": "Shanghai",
-            "ko": "상해",
             "zh-Hans": "上海",
-            "zh-Hant": "上海"
+            "zh-Hant": "上海",
+            "ja": "上海",
+            "ko": "상해"
         },
-        "lastUpdateOn": 1684570005709
+        "lastUpdateOn": 1685190302201
     },
     "shenyang": {
         "contributors": [
@@ -115,6 +281,51 @@
             "zh-CN": "沈阳"
         },
         "lastUpdateOn": 1684570944698
+    },
+    "shenzhen": {
+        "contributors": [
+            "108135843"
+        ],
+        "name": {
+            "en": "Shenzhen",
+            "zh-CN": "深圳"
+        },
+        "lastUpdateOn": 1688304960795
+    },
+    "suzhou": {
+        "contributors": [
+            "123239445",
+            "139970605"
+        ],
+        "name": {
+            "en": "Suzhou",
+            "ja": "蘇州",
+            "ko": "쑤저우",
+            "zh-Hans": "苏州",
+            "zh-Hant": "蘇州"
+        },
+        "lastUpdateOn": 1691772381717
+    },
+    "taiyuan": {
+        "contributors": [
+            "134940429"
+        ],
+        "name": {
+            "en": "Taiyuan",
+            "zh": "太原"
+        },
+        "lastUpdateOn": 1688873322668
+    },
+    "tianjin": {
+        "contributors": [
+            "135576966"
+        ],
+        "name": {
+            "en": "Tianjin",
+            "zh-CN": "天津",
+            "zh-HK": "天津"
+        },
+        "lastUpdateOn": 1687403889948
     },
     "toronto": {
         "contributors": [
@@ -129,5 +340,48 @@
             "ko": "토론토"
         },
         "lastUpdateOn": 1684570711856
+    },
+    "urumqi": {
+        "contributors": [
+            "134940429"
+        ],
+        "name": {
+            "en": "Urumqi",
+            "zh-Hans": "乌鲁木齐"
+        },
+        "lastUpdateOn": 1691372432951
+    },
+    "wuxi": {
+        "contributors": [
+            "92020676"
+        ],
+        "name": {
+            "en": "Wuxi",
+            "zh-Hans": "无锡",
+            "zh-Hant": "無錫"
+        },
+        "lastUpdateOn": 1684657421515
+    },
+    "xian": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Xi'an",
+            "zh-CN": "西安",
+            "zh-HK": "西安"
+        },
+        "lastUpdateOn": 1691378974759
+    },
+    "xuzhou": {
+        "contributors": [
+            "123074394"
+        ],
+        "name": {
+            "en": "Xuzhou",
+            "zh-CN": "徐州",
+            "zh-HK": "徐州"
+        },
+        "lastUpdateOn": 1688634860783
     }
 }
