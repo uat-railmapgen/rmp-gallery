@@ -40,6 +40,18 @@
             "issueNumber": 556,
             "reason": "Responding to the development of Qingdao Metro in the real world",
             "time": 1692253383766
+        },
+        {
+            "id": 139970605,
+            "issueNumber": 946,
+            "reason": "Update opening status of Jialingjiang West Road and Xiangjiang Road stations. Also fixing English name of Xiangjiang Road.",
+            "time": 1698338110591
+        },
+        {
+            "id": 138875021,
+            "issueNumber": 1062,
+            "reason": "Update the template and optimize the layout of the template",
+            "time": 1702790006183
         }
     ]
 }
