@@ -57,7 +57,7 @@
             "zh-Hans": "布里斯班",
             "zh-Hant": "布里斯班"
         },
-        "lastUpdateOn": 1710721509691
+        "lastUpdateOn": 1728578037769
     },
     "brussels": {
         "contributors": [
@@ -122,10 +122,11 @@
             "zh-Hant": "成都",
             "ja": "成都"
         },
-        "lastUpdateOn": 1721375042327
+        "lastUpdateOn": 1727920110756
     },
     "chongqing": {
         "contributors": [
+            "111163606",
             "123074394",
             "139970605"
         ],
@@ -134,7 +135,7 @@
             "zh-Hans": "重庆",
             "zh-Hant": "重慶"
         },
-        "lastUpdateOn": 1707469517548
+        "lastUpdateOn": 1722592155579
     },
     "chuzhou": {
         "contributors": [
@@ -206,7 +207,7 @@
             "ko": "불산",
             "zh-Hant": "佛山"
         },
-        "lastUpdateOn": 1718416367587
+        "lastUpdateOn": 1724135097622
     },
     "fuzhou": {
         "contributors": [
@@ -381,6 +382,20 @@
         },
         "lastUpdateOn": 1707132065167
     },
+    "kualalumpur": {
+        "contributors": [
+            "170912407"
+        ],
+        "name": {
+            "en": "Kuala Lumpur",
+            "ms": "Kuala Lumpur",
+            "ja": "クアラルンプール",
+            "ko": "쿠알라룸푸르",
+            "zh-Hant": "吉隆坡",
+            "zh-Hans": "吉隆坡"
+        },
+        "lastUpdateOn": 1723895347030
+    },
     "kunming": {
         "contributors": [
             "139970605",
@@ -418,6 +433,19 @@
         },
         "lastUpdateOn": 1721379992787
     },
+    "lasvegas": {
+        "contributors": [
+            "170912407"
+        ],
+        "name": {
+            "en": "Las Vegas",
+            "es": "Las Vegas",
+            "zh-Hans": "拉斯维加斯",
+            "zh-Hant": "拉斯維加斯",
+            "ja": "ラスベガス"
+        },
+        "lastUpdateOn": 1723668930841
+    },
     "luoyang": {
         "contributors": [
             "138973971"
@@ -430,6 +458,7 @@
     "macao": {
         "contributors": [
             "59787082",
+            "182935715",
             "70256298",
             "139970605"
         ],
@@ -439,7 +468,7 @@
             "zh-Hant": "澳門",
             "pt": "Macau"
         },
-        "lastUpdateOn": 1702019879863
+        "lastUpdateOn": 1727358098096
     },
     "melbourne": {
         "contributors": [
@@ -590,6 +619,7 @@
     },
     "qingdao": {
         "contributors": [
+            "77337142",
             "138875021",
             "139970605",
             "123239445"
@@ -605,7 +635,7 @@
             "de": "Qingdao",
             "es": "Qingdao"
         },
-        "lastUpdateOn": 1714632413260
+        "lastUpdateOn": 1726412143372
     },
     "sapporo": {
         "contributors": [
@@ -637,6 +667,7 @@
     "shanghai": {
         "contributors": [
             "3353040",
+            "140082406",
             "123239445"
         ],
         "name": {
@@ -646,7 +677,17 @@
             "ja": "上海",
             "ko": "상해"
         },
-        "lastUpdateOn": 1712587312366
+        "lastUpdateOn": 1728514340381
+    },
+    "shanghaiyananroadmediumcapacitytransit": {
+        "contributors": [
+            "80013099"
+        ],
+        "name": {
+            "en": "Shanghai Yan'an Road Medium-capacity Transit",
+            "zh-Hans": "上海延安路中运量公交系统"
+        },
+        "lastUpdateOn": 1726749528495
     },
     "shenyang": {
         "contributors": [
@@ -705,7 +746,7 @@
             "zh-Hans": "新加坡",
             "zh-Hant": "新加坡"
         },
-        "lastUpdateOn": 1717312503411
+        "lastUpdateOn": 1724057038719
     },
     "stpetersburg": {
         "contributors": [
@@ -728,7 +769,7 @@
             "zh-Hans": "苏州",
             "zh-Hant": "蘇州"
         },
-        "lastUpdateOn": 1719896357120
+        "lastUpdateOn": 1726295740996
     },
     "sydney": {
         "contributors": [
@@ -739,7 +780,7 @@
             "zh-Hans": "悉尼",
             "zh-Hant": "雪梨"
         },
-        "lastUpdateOn": 1700917605787
+        "lastUpdateOn": 1725901826226
     },
     "taichung": {
         "contributors": [
@@ -791,6 +832,7 @@
         "contributors": [
             "138973971",
             "135576966",
+            "154876632",
             "138379438",
             "139970605"
         ],
@@ -801,7 +843,7 @@
             "ja": "天津",
             "ko": "톈진"
         },
-        "lastUpdateOn": 1720003608179
+        "lastUpdateOn": 1729056776080
     },
     "tokyo": {
         "contributors": [
@@ -903,6 +945,7 @@
     "xian": {
         "contributors": [
             "146195199",
+            "154876632",
             "123074394",
             "139970605",
             "123239445"
@@ -912,7 +955,7 @@
             "zh-Hans": "西安",
             "zh-Hant": "西安"
         },
-        "lastUpdateOn": 1701530349617
+        "lastUpdateOn": 1728967734507
     },
     "xuzhou": {
         "contributors": [
