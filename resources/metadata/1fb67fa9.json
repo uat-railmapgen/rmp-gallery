@@ -1,0 +1,91 @@
+{
+    "name": {
+        "en": "Rio de Janeiro perfection ver."
+    },
+    "desc": {
+        "en": "TThis Rio de Janeiro Metro map is fantasy planning I assumed this based on the fact that Rio de Janeiro has never been bankrupt in history. Most of its contents are virtual, So it does not reflect the actual planning and information. Please do not substitute fantasy with reality and blame the incompetence of the state government. Thank you."
+    },
+    "reference": "爱发电,Sun Dec 29 2024 18:48:14 GMT+0800 (台北標準時間)",
+    "remainingUpdateCount": -1,
+    "expireOn": 1767437966456,
+    "updateHistory": [
+        {
+            "id": 37297958,
+            "issueNumber": 2084,
+            "reason": "Rio de Janeiro and its metropolitan area deserve a better transit system",
+            "time": 1735469966456
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2088,
+            "reason": "12/29 21:49 Niterói~Alcântara Lightrail completed",
+            "time": 1735480294333
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2091,
+            "reason": "12/30 00:07: Uruguai Circular extended to Vila Isabel, and several shapes fixing.",
+            "time": 1735488556588
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2095,
+            "reason": "12/30 13:31: Label adding.",
+            "time": 1735536786309
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2115,
+            "reason": "2025 1/1 23:29: Supervia completed",
+            "time": 1735745495777
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2120,
+            "reason": "2025 01/02 12:41: Several shapes fixing.",
+            "time": 1735793152819
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2131,
+            "reason": "2025 01/02 22:19 : Shapes fixing",
+            "time": 1735827778462
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2135,
+            "reason": "2025 01/03 00:29: Shape fixing",
+            "time": 1735835463089
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2137,
+            "reason": "2025 01/03 12:43: Shape fixing",
+            "time": 1735879517026
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2160,
+            "reason": "1/6 15:14 : Vasco da Gama Light rail added and shape fixing.",
+            "time": 1736147787611
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2184,
+            "reason": "Santa Cruz Light rail added, Metro Line 1~5 and L1~L3's color changed, and shape fixing.",
+            "time": 1736262335854
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2186,
+            "reason": "L1's name changed from Niterói to Itaipu",
+            "time": 1736267586095
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2189,
+            "reason": "Grande Norte Lightrail added.",
+            "time": 1736511527471
+        }
+    ]
+}

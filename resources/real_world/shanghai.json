@@ -1,8 +1,8 @@
 {
-    "svgViewBoxZoom": 160,
+    "svgViewBoxZoom": 150,
     "svgViewBoxMin": {
-        "x": -1256.2417648315377,
-        "y": -300.4000610351551
+        "x": -274.60185623168604,
+        "y": 2156.399875640866
     },
     "graph": {
         "options": {
@@ -3277,7 +3277,7 @@
                         "nameOffsetY": "middle",
                         "rotate": 0,
                         "height": 10,
-                        "width": 13
+                        "width": 10
                     }
                 }
             },
@@ -3523,7 +3523,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "杨树浦路",
-                            "Yangshupu rd."
+                            "Yangshupu Rd."
                         ],
                         "rotate": 90,
                         "color": [
@@ -3567,7 +3567,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "临平路",
-                            "Linpin Rd."
+                            "Linping Rd."
                         ],
                         "rotate": 0,
                         "color": [
@@ -5578,7 +5578,7 @@
                     "shmetro-int": {
                         "names": [
                             "常熟路",
-                            "Changchu Rd."
+                            "Changshu Rd."
                         ],
                         "nameOffsetX": "left",
                         "nameOffsetY": "top",
@@ -6783,7 +6783,7 @@
                     "shmetro-int": {
                         "names": [
                             "一大会址·黄陂南路",
-                            "Site of the First CPC National Congress·\\Huangpi Rd. (S)"
+                            "Site of the First CPC National Congress·\\Huangpi Rd.(S)"
                         ],
                         "nameOffsetX": "left",
                         "nameOffsetY": "bottom",
@@ -8549,7 +8549,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "外高桥保税区南",
-                            "Waigaoqiao Free Trade Zone(N)"
+                            "Waigaoqiao Free Trade Zone(S)"
                         ],
                         "rotate": 135,
                         "color": [
@@ -10306,7 +10306,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "银都路",
-                            "Yindulu"
+                            "Yindu Rd."
                         ],
                         "rotate": 90,
                         "color": [
@@ -10879,7 +10879,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "黄兴路",
-                            "Huangxin Rd."
+                            "Huangxing Rd."
                         ],
                         "rotate": 135,
                         "color": [
@@ -11040,7 +11040,7 @@
                     "shmetro-basic-2020": {
                         "names": [
                             "凌兆新村",
-                            "Linzhao Xincun"
+                            "Lingzhao Xincun"
                         ],
                         "rotate": 90,
                         "color": [
@@ -12146,7 +12146,7 @@
                     "sh-sub-rwy": {
                         "names": [
                             "星海湾路",
-                            "Xinhaiwan Rd."
+                            "Xinghaiwan Rd."
                         ],
                         "rotate": 270
                     }
@@ -13273,7 +13273,7 @@
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
-                    "x": 1305,
+                    "x": 1310,
                     "y": 2585,
                     "type": "virtual",
                     "virtual": {}
@@ -13317,7 +13317,7 @@
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
-                    "x": 730,
+                    "x": 732.5,
                     "y": 2550,
                     "type": "virtual",
                     "virtual": {}
@@ -13329,7 +13329,7 @@
                     "visible": true,
                     "zIndex": 0,
                     "x": 600,
-                    "y": 2700,
+                    "y": 2702.5,
                     "type": "virtual",
                     "virtual": {}
                 }
@@ -13339,7 +13339,7 @@
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
-                    "x": 730,
+                    "x": 732.5,
                     "y": 2855,
                     "type": "virtual",
                     "virtual": {}
@@ -13351,7 +13351,7 @@
                     "visible": true,
                     "zIndex": 0,
                     "x": 865,
-                    "y": 2700,
+                    "y": 2702.5,
                     "type": "virtual",
                     "virtual": {}
                 }
@@ -13533,7 +13533,7 @@
                     "y": 2684.878048780488,
                     "type": "text",
                     "text": {
-                        "content": "Nunber of Metro Lines",
+                        "content": "Number of Metro Lines",
                         "fontSize": 8,
                         "lineHeight": 8,
                         "textAnchor": "start",
@@ -14317,7 +14317,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -14344,7 +14344,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -14371,7 +14371,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -14398,7 +14398,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -14425,7 +14425,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -14452,7 +14452,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -29432,33 +29432,6 @@
                 }
             },
             {
-                "key": "line_VOxOgo52n6",
-                "source": "stn_23JhYpBZXa",
-                "target": "stn_zxbjrAy_0Y",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 0,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "china-railway",
-                    "reconcileId": "",
-                    "parallelIndex": -1,
-                    "china-railway": {
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ]
-                    }
-                }
-            },
-            {
                 "key": "line_c1A-KEF_78",
                 "source": "stn_PLESt_mP_E",
                 "target": "stn_zxbjrAy_0Y",
@@ -31004,7 +30977,7 @@
                     },
                     "style": "sh-sub-rwy",
                     "reconcileId": "",
-                    "parallelIndex": 0,
+                    "parallelIndex": -1,
                     "sh-sub-rwy": {
                         "isEnd": false
                     }
@@ -31026,7 +30999,7 @@
                     },
                     "style": "sh-sub-rwy",
                     "reconcileId": "",
-                    "parallelIndex": 0,
+                    "parallelIndex": -1,
                     "sh-sub-rwy": {
                         "isEnd": false
                     }
@@ -31048,7 +31021,7 @@
                     },
                     "style": "sh-sub-rwy",
                     "reconcileId": "",
-                    "parallelIndex": 0,
+                    "parallelIndex": -1,
                     "sh-sub-rwy": {
                         "isEnd": false
                     }
@@ -31070,7 +31043,7 @@
                     },
                     "style": "sh-sub-rwy",
                     "reconcileId": "",
-                    "parallelIndex": 0,
+                    "parallelIndex": -1,
                     "sh-sub-rwy": {
                         "isEnd": false
                     }
@@ -31188,7 +31161,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31215,7 +31188,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31242,7 +31215,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31269,7 +31242,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31296,7 +31269,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31323,7 +31296,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31350,7 +31323,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31377,7 +31350,7 @@
                         ]
                     },
                     "reconcileId": "",
-                    "parallelIndex": 0
+                    "parallelIndex": -1
                 }
             },
             {
@@ -31543,8 +31516,35 @@
                         "width": 5
                     }
                 }
+            },
+            {
+                "key": "line_WPL57GtaI9",
+                "source": "stn_zxbjrAy_0Y",
+                "target": "stn_23JhYpBZXa",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "china-railway",
+                    "reconcileId": "",
+                    "parallelIndex": -1,
+                    "china-railway": {
+                        "color": [
+                            "shanghai",
+                            "jsr",
+                            "#000000",
+                            "#fff"
+                        ]
+                    }
+                }
             }
         ]
     },
-    "version": 38
+    "version": 41
 }
