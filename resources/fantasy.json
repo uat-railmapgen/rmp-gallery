@@ -1,4 +1,14 @@
 {
+    "06ce73f4": {
+        "contributors": [
+            "199073761"
+        ],
+        "name": {
+            "en": "Downtown for Shanghai and Xiahai",
+            "zh-Hans": "上海下海城区"
+        },
+        "lastUpdateOn": 1739443695699
+    },
     "18760b54": {
         "contributors": [
             "162022534"
@@ -27,7 +37,7 @@
         "name": {
             "en": "Rio de Janeiro perfection ver."
         },
-        "lastUpdateOn": 1736511527471
+        "lastUpdateOn": 1738835465486
     },
     "24bb8c81": {
         "contributors": [
@@ -59,6 +69,16 @@
         },
         "lastUpdateOn": 1732883128174
     },
+    "402e2736": {
+        "contributors": [
+            "183899241"
+        ],
+        "name": {
+            "en": "Dalixinqu Metro x Binhai Metro 2.0",
+            "zh-Hans": "大力新区地铁x滨海2.0"
+        },
+        "lastUpdateOn": 1739775068666
+    },
     "4a79ce30": {
         "contributors": [
             "161139372"
@@ -77,7 +97,7 @@
             "en": "Guangzhou Metro(only Guangzhou)",
             "zh-Hans": "广州地铁地图（广州属地版）"
         },
-        "lastUpdateOn": 1736172943500
+        "lastUpdateOn": 1737538729755
     },
     "6e0cabd9": {
         "contributors": [
@@ -89,6 +109,16 @@
             "zh-Hant": "龍村"
         },
         "lastUpdateOn": 1736062357265
+    },
+    "6e70249d": {
+        "contributors": [
+            "56497271"
+        ],
+        "name": {
+            "en": "Linyi",
+            "zh-Hans": "临沂"
+        },
+        "lastUpdateOn": 1738341297606
     },
     "744f8537": {
         "contributors": [
@@ -170,6 +200,16 @@
         },
         "lastUpdateOn": 1713598042032
     },
+    "a798ee37": {
+        "contributors": [
+            "197863007"
+        ],
+        "name": {
+            "zh-Hans": "璃月",
+            "en": "Liyue"
+        },
+        "lastUpdateOn": 1738745401895
+    },
     "australia": {
         "contributors": [
             "134931870"
@@ -180,6 +220,27 @@
         },
         "lastUpdateOn": 1721227062000
     },
+    "bcf2aeaa": {
+        "contributors": [
+            "195666055"
+        ],
+        "name": {
+            "en": "Hami",
+            "zh-Hans": "哈密市",
+            "ru": "Хами"
+        },
+        "lastUpdateOn": 1737301446081
+    },
+    "c35b550a": {
+        "contributors": [
+            "110673506"
+        ],
+        "name": {
+            "en": "Renqiu",
+            "zh-Hans": "任丘市"
+        },
+        "lastUpdateOn": 1738284496526
+    },
     "dd328f49": {
         "contributors": [
             "192348948"
@@ -189,6 +250,16 @@
             "zh-Hans": "宫原"
         },
         "lastUpdateOn": 1734708149711
+    },
+    "de541c69": {
+        "contributors": [
+            "199103833"
+        ],
+        "name": {
+            "zh-Hans": "南京地铁三期规划",
+            "en": "Nanjing Metro Planning"
+        },
+        "lastUpdateOn": 1739690982262
     },
     "wenxi": {
         "contributors": [

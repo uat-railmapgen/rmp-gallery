@@ -1,6 +1,6 @@
 {
   "component": "rmp-gallery",
-  "version": "2.0.60",
+  "version": "2.0.98.#2350-Migrate-to-rmt-token.358eca6",
   "environment": "UAT",
   "instance": "GitHub"
 }

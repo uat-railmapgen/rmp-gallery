@@ -3,7 +3,7 @@
         "en": "Rio de Janeiro perfection ver."
     },
     "desc": {
-        "en": "TThis Rio de Janeiro Metro map is fantasy planning I assumed this based on the fact that Rio de Janeiro has never been bankrupt in history. Most of its contents are virtual, So it does not reflect the actual planning and information. Please do not substitute fantasy with reality and blame the incompetence of the state government. Thank you."
+        "en": "This Rio de Janeiro Metro map is fantasy planning I assumed this based on the fact that Rio de Janeiro has never been bankrupt in history. Most of its contents are virtual, So it does not reflect the actual planning and information. Please do not substitute fantasy with reality and blame the incompetence of the state government. Thank you."
     },
     "reference": "爱发电,Sun Dec 29 2024 18:48:14 GMT+0800 (台北標準時間)",
     "remainingUpdateCount": -1,
@@ -86,6 +86,66 @@
             "issueNumber": 2189,
             "reason": "Grande Norte Lightrail added.",
             "time": 1736511527471
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2195,
+            "reason": "Novo Iguaçu Line completed , shape fixing.",
+            "time": 1736742629704
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2198,
+            "reason": "Shape fixing",
+            "time": 1736756638099
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2201,
+            "reason": "Shape fixing",
+            "time": 1736757352667
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2218,
+            "reason": "Linha 2 extend to Praça de Heliópolis, Arariboa station was removed in Linha 3, and shape fixing.",
+            "time": 1736960771616
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2230,
+            "reason": "Translation of station names, important landmarks and famous attractions has been completed",
+            "time": 1737383620859
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2232,
+            "reason": "Translation of station names, important landmarks and famous attractions has been completed",
+            "time": 1737434887016
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2236,
+            "reason": "Shape fixing and error shooting",
+            "time": 1737525597579
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2238,
+            "reason": "Error shooting",
+            "time": 1737527425806
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2262,
+            "reason": "shape fixing",
+            "time": 1738563898708
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2288,
+            "reason": "shape fixing",
+            "time": 1738835465486
         }
     ]
 }
