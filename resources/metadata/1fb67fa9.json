@@ -146,6 +146,132 @@
             "issueNumber": 2288,
             "reason": "shape fixing",
             "time": 1738835465486
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2412,
+            "reason": "Lina 1 extended to Sampaio, Alcântara Lightrail removed. And original L5, which called Grande Norte Lightrail upgraded to Medium-capacity rail system (MCS) Like Linha 7.",
+            "time": 1740991114173
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2424,
+            "reason": "Shape fixing and logo added",
+            "time": 1741069571282
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2428,
+            "reason": "Shape fixing, Linha 1 extended to Del Castilho station",
+            "time": 1741077554028
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2432,
+            "reason": "Santa Cruz Line extended to Itaguaí",
+            "time": 1741104485411
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2434,
+            "reason": "Hospital de Força Aérea do Galeão station infilled, shape fixing",
+            "time": 1741143031590
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2436,
+            "reason": "Shape fixing",
+            "time": 1741146919736
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2438,
+            "reason": "Shape fixing",
+            "time": 1741179159631
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2448,
+            "reason": "Linha1&5 reroute between Vila Isabel~Pilares section.",
+            "time": 1741409306729
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2454,
+            "reason": "File repost",
+            "time": 1741437963948
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2456,
+            "reason": "shape fixing",
+            "time": 1741442221622
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2461,
+            "reason": "Shape fixing",
+            "time": 1741529058695
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2465,
+            "reason": "Supervia Line type style change",
+            "time": 1741587241208
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2467,
+            "reason": "Reroute again",
+            "time": 1741617018679
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2473,
+            "reason": "Trouble shooting",
+            "time": 1741623144225
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2478,
+            "reason": "issue fixed",
+            "time": 1741682648829
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2481,
+            "reason": "Shape fixing",
+            "time": 1741783507817
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2483,
+            "reason": "Shape fixing",
+            "time": 1741785083742
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2488,
+            "reason": "Shape fixing",
+            "time": 1741884682175
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2490,
+            "reason": "Shape fixing",
+            "time": 1741934831470
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2494,
+            "reason": "shape fixing",
+            "time": 1742025792002
+        },
+        {
+            "id": 37297958,
+            "issueNumber": 2496,
+            "reason": "NY center station removed",
+            "time": 1742198657360
         }
     ]
 }
