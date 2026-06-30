@@ -1,9 +1,10 @@
 {
-    "svgViewBoxZoom": 50,
+    "svgViewBoxZoom": 43.904930887521935,
     "svgViewBoxMin": {
-        "x": 352.34999999999764,
-        "y": 100.35000000001065
+        "x": -313.7491593128728,
+        "y": -228.94371709503162
     },
+    "images": [],
     "graph": {
         "options": {
             "type": "directed",
@@ -782,12 +783,12 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 475,
-                    "y": -80,
+                    "y": -80.33,
                     "type": "gzmtr-int",
                     "gzmtr-int": {
                         "names": [
-                            "",
-                            ""
+                            "西塱",
+                            "Xilang"
                         ],
                         "nameOffsetX": "middle",
                         "nameOffsetY": "bottom",
@@ -814,11 +815,19 @@
                                 [
                                     "guangzhou",
                                     "gz10",
-                                    "#7d9cc0",
+                                    "#7D9CC0",
                                     "#fff",
                                     "10",
                                     "01",
                                     "gz"
+                                ],
+                                [
+                                    "guangzhou",
+                                    "gz22",
+                                    "#d24c1e",
+                                    "#fff",
+                                    "22",
+                                    "07"
                                 ]
                             ],
                             []
@@ -861,62 +870,6 @@
                             ""
                         ],
                         "tram": false
-                    }
-                }
-            },
-            {
-                "key": "misc_node_zUlnaskQNd",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 475,
-                    "y": -45,
-                    "type": "text",
-                    "text": {
-                        "content": "西塱",
-                        "fontSize": 16,
-                        "lineHeight": 16,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_59V3TAq9aA",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 475,
-                    "y": -32,
-                    "type": "text",
-                    "text": {
-                        "content": "Xilang",
-                        "fontSize": 10,
-                        "lineHeight": 16,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "en",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
                     }
                 }
             },
@@ -1393,7 +1346,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 705,
-                    "y": 130,
+                    "y": 142,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -1554,7 +1507,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 790,
-                    "y": -60,
+                    "y": -48,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -1589,7 +1542,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 670,
-                    "y": -160,
+                    "y": -148,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -1624,7 +1577,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 475,
-                    "y": -160,
+                    "y": -148,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -1887,7 +1840,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 465,
-                    "y": 350,
+                    "y": 362,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -1897,7 +1850,7 @@
                         "color": [
                             "guangzhou",
                             "gz7",
-                            "#97d700",
+                            "#97D700",
                             "#fff"
                         ],
                         "tram": false,
@@ -1911,7 +1864,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 660,
-                    "y": 235,
+                    "y": 247,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -2264,7 +2217,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 970,
-                    "y": -60,
+                    "y": -48,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -2288,7 +2241,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1030,
-                    "y": 10,
+                    "y": 22,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -2370,7 +2323,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1055,
-                    "y": 60,
+                    "y": 72,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -2490,7 +2443,7 @@
                                 [
                                     "guangzhou",
                                     "gz12",
-                                    "#59621d",
+                                    "#59621D",
                                     "#fff",
                                     "12",
                                     "25",
@@ -2866,7 +2819,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 955,
-                    "y": 890,
+                    "y": 902,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -3051,7 +3004,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1245,
-                    "y": 145,
+                    "y": 157,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -3075,7 +3028,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 325,
-                    "y": 395,
+                    "y": 407,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -3323,7 +3276,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": -330,
-                    "y": 305,
+                    "y": 317,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -4107,7 +4060,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": -140,
-                    "y": -290,
+                    "y": -278,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -4126,112 +4079,12 @@
                 }
             },
             {
-                "key": "misc_node_0CvBrml-iJ",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -60,
-                    "y": -210,
-                    "type": "virtual",
-                    "virtual": {}
-                }
-            },
-            {
-                "key": "misc_node_gzNZ4v8tDE",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -160,
-                    "y": -150,
-                    "type": "virtual",
-                    "virtual": {}
-                }
-            },
-            {
-                "key": "misc_node_0owNnmq9do",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -50,
-                    "y": -130,
-                    "type": "virtual",
-                    "virtual": {}
-                }
-            },
-            {
-                "key": "misc_node_1Z59N9aZ-r",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 35,
-                    "y": -150,
-                    "type": "virtual",
-                    "virtual": {}
-                }
-            },
-            {
-                "key": "misc_node_GodjEeKCDL",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -155,
-                    "y": -180,
-                    "type": "text",
-                    "text": {
-                        "content": "3号线中山公园-联和段\n尚未开通。",
-                        "fontSize": 16,
-                        "lineHeight": 16,
-                        "textAnchor": "start",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_z8XdyCcZnN",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 4,
-                    "x": -155,
-                    "y": -150,
-                    "type": "text",
-                    "text": {
-                        "content": "Line 3 (Zhongshan Park-Lianhe) is under\nconstruction.",
-                        "fontSize": 10,
-                        "lineHeight": 8,
-                        "textAnchor": "start",
-                        "dominantBaseline": "middle",
-                        "language": "en",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
                 "key": "misc_node_1jXEkjOUeH",
                 "attributes": {
                     "visible": true,
                     "zIndex": 5,
                     "x": 302.5,
-                    "y": 23,
+                    "y": 35,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -4255,7 +4108,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 560,
-                    "y": 275,
+                    "y": 287,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -4291,7 +4144,7 @@
                 "attributes": {
                     "visible": true,
                     "zIndex": 5,
-                    "x": 810,
+                    "x": 809.67,
                     "y": 230,
                     "type": "facilities",
                     "facilities": {
@@ -4725,7 +4578,7 @@
                                     "#8E8C13",
                                     "#fff",
                                     "13",
-                                    "02",
+                                    "25",
                                     "gz"
                                 ]
                             ],
@@ -5015,7 +4868,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1245,
-                    "y": -530,
+                    "y": -518,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5083,7 +4936,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1150,
-                    "y": -450,
+                    "y": -438,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5107,7 +4960,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1150,
-                    "y": -380,
+                    "y": -368,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5131,7 +4984,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1150,
-                    "y": -200,
+                    "y": -188,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5155,7 +5008,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1150,
-                    "y": -130,
+                    "y": -118,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5252,250 +5105,6 @@
                 }
             },
             {
-                "key": "misc_node_WkiRYRi2QT",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 20,
-                    "y": -25,
-                    "type": "gzmtr-line-badge",
-                    "gzmtr-line-badge": {
-                        "names": [
-                            "3号线",
-                            "Line 3"
-                        ],
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ],
-                        "tram": false,
-                        "span": false
-                    }
-                }
-            },
-            {
-                "key": "misc_node_oYXYEYX4qI",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -90,
-                    "y": -25,
-                    "type": "gzmtr-line-badge",
-                    "gzmtr-line-badge": {
-                        "names": [
-                            "3号线",
-                            "Line 3"
-                        ],
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ],
-                        "tram": false,
-                        "span": false
-                    }
-                }
-            },
-            {
-                "key": "misc_node_kJ7C0QIV9W",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -120,
-                    "y": -195,
-                    "type": "text",
-                    "text": {
-                        "content": "温馨提示  Notice",
-                        "fontSize": 16,
-                        "lineHeight": 16,
-                        "textAnchor": "start",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "bold",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_lMu5vpeTqU",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -140,
-                    "y": -303,
-                    "type": "text",
-                    "text": {
-                        "content": "（联和-佛山大学）",
-                        "fontSize": 10,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_aOtFG0eeYw",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -140,
-                    "y": -295,
-                    "type": "text",
-                    "text": {
-                        "content": "(Lianhe-Foshan University)",
-                        "fontSize": 5,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "en",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_MUz0GfKg4r",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -90,
-                    "y": 5,
-                    "type": "text",
-                    "text": {
-                        "content": "（联和-佛山大学）",
-                        "fontSize": 10,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_dzSgKI7YH9",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": -90,
-                    "y": 13,
-                    "type": "text",
-                    "text": {
-                        "content": "(Lianhe-Foshan University)",
-                        "fontSize": 5,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "en",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_zu2O9O8jPX",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 20,
-                    "y": 5,
-                    "type": "text",
-                    "text": {
-                        "content": "（顺德学院站-中山公园）",
-                        "fontSize": 10,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "zh",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
-                "key": "misc_node_LqHbPBHKL4",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 5,
-                    "x": 20,
-                    "y": 13,
-                    "type": "text",
-                    "text": {
-                        "content": "(Shunde College Railway Station-Zhongshan Park)",
-                        "fontSize": 5,
-                        "lineHeight": 9,
-                        "textAnchor": "middle",
-                        "dominantBaseline": "middle",
-                        "language": "en",
-                        "color": [
-                            "shanghai",
-                            "jsr",
-                            "#000000",
-                            "#fff"
-                        ],
-                        "rotate": 0,
-                        "italic": "normal",
-                        "bold": "normal",
-                        "outline": 0
-                    }
-                }
-            },
-            {
                 "key": "misc_node_9sLAu31oaU",
                 "attributes": {
                     "visible": true,
@@ -5568,7 +5177,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 585,
-                    "y": -160,
+                    "y": -148,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5603,7 +5212,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 725,
-                    "y": -35,
+                    "y": -23,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5805,7 +5414,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 120,
-                    "y": 970,
+                    "y": 982,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5829,7 +5438,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 120,
-                    "y": 1000,
+                    "y": 1012,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -5853,7 +5462,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 120,
-                    "y": 1030,
+                    "y": 1042,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6039,7 +5648,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 335,
-                    "y": 970,
+                    "y": 982,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6049,7 +5658,7 @@
                         "color": [
                             "guangzhou",
                             "gz7",
-                            "#97d700",
+                            "#97D700",
                             "#fff"
                         ],
                         "tram": false,
@@ -6063,7 +5672,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 335,
-                    "y": 1000,
+                    "y": 1012,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6087,7 +5696,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 335,
-                    "y": 1035,
+                    "y": 1047,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6189,7 +5798,7 @@
                         "color": [
                             "guangzhou",
                             "gz7",
-                            "#97d700",
+                            "#97D700",
                             "#fff"
                         ],
                         "lineCode": " ",
@@ -6883,7 +6492,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 475,
-                    "y": -190,
+                    "y": -178,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6907,7 +6516,7 @@
                     "visible": true,
                     "zIndex": 5,
                     "x": 1245,
-                    "y": 175,
+                    "y": 187,
                     "type": "gzmtr-line-badge",
                     "gzmtr-line-badge": {
                         "names": [
@@ -6922,6 +6531,107 @@
                         ],
                         "tram": false,
                         "span": true
+                    }
+                }
+            },
+            {
+                "key": "stn_seizV6b0aO",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "x": -10,
+                    "y": -15,
+                    "type": "foshan-metro-basic",
+                    "foshan-metro-basic": {
+                        "names": [
+                            "敦厚",
+                            "Dunhou"
+                        ],
+                        "nameOffsetX": "middle",
+                        "nameOffsetY": "bottom",
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ],
+                        "lineCode": "F3",
+                        "stationCode": "28",
+                        "open": true,
+                        "secondaryNames": [
+                            "",
+                            ""
+                        ],
+                        "tram": false
+                    }
+                }
+            },
+            {
+                "key": "stn_OkOLpwIIUt",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "x": -70.44,
+                    "y": -15,
+                    "type": "foshan-metro-basic",
+                    "foshan-metro-basic": {
+                        "names": [
+                            "佛山站",
+                            "Foshan\nRailway Station"
+                        ],
+                        "nameOffsetX": "middle",
+                        "nameOffsetY": "top",
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ],
+                        "lineCode": "F3",
+                        "stationCode": "29",
+                        "open": true,
+                        "secondaryNames": [
+                            "",
+                            ""
+                        ],
+                        "tram": false
+                    }
+                }
+            },
+            {
+                "key": "misc_node_EgYjymaTrZ",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "x": 474.59,
+                    "y": -208.27,
+                    "type": "gzmtr-line-badge",
+                    "gzmtr-line-badge": {
+                        "names": [
+                            "广州22号线",
+                            "Guangzhou Line 22"
+                        ],
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ],
+                        "tram": false,
+                        "span": true
+                    }
+                }
+            },
+            {
+                "key": "misc_node_OL9q-xI4Z1",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "x": -40,
+                    "y": -50,
+                    "type": "facilities",
+                    "facilities": {
+                        "type": "railway_qingdao"
                     }
                 }
             }
@@ -7063,6 +6773,60 @@
                 }
             },
             {
+                "key": "line_N9CI4Yks9-",
+                "source": "stn_pJB3x4bo3e",
+                "target": "stn_3TUxvVwLla",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs1",
+                            "#bbd501",
+                            "#000"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_mmu1y80qAT",
+                "source": "stn_pJB3x4bo3e",
+                "target": "stn_SDuzCrEoZL",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs2",
+                            "#f6112e",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
                 "key": "line_nwCp7I43GT",
                 "source": "stn_Kf_jxVYGy4",
                 "target": "stn_I8yjBhm3a-",
@@ -7117,9 +6881,9 @@
                 }
             },
             {
-                "key": "line_N9CI4Yks9-",
-                "source": "stn_pJB3x4bo3e",
-                "target": "stn_3TUxvVwLla",
+                "key": "line_0q3OMrs7rJ",
+                "source": "stn_I8yjBhm3a-",
+                "target": "stn_3ylgVSqs3H",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -7128,9 +6892,36 @@
                     "single-color": {
                         "color": [
                             "foshan",
-                            "fs1",
-                            "#bbd501",
-                            "#000"
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_X8hlynb9dP",
+                "source": "stn_I8yjBhm3a-",
+                "target": "stn__FxP7iIHiW",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs2",
+                            "#f6112e",
+                            "#fff"
                         ]
                     },
                     "reconcileId": "",
@@ -7198,33 +6989,6 @@
                 }
             },
             {
-                "key": "line_0q3OMrs7rJ",
-                "source": "stn_I8yjBhm3a-",
-                "target": "stn_3ylgVSqs3H",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
                 "key": "line_aQnSPhJiAb",
                 "source": "stn_3ylgVSqs3H",
                 "target": "stn_1lSwQF-yiS",
@@ -7255,6 +7019,33 @@
                 "key": "line_Xx9Usifeor",
                 "source": "stn_1lSwQF-yiS",
                 "target": "stn_F7DCqYVRxo",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_08fgFk2t4j",
+                "source": "stn_F7DCqYVRxo",
+                "target": "stn_Vo3ZByLr2A",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -7383,6 +7174,33 @@
                         ]
                     },
                     "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_fauGORDDFb",
+                "source": "stn_Vo3ZByLr2A",
+                "target": "stn_CYYgjuaKsQ",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
                     "parallelIndex": -1
                 }
             },
@@ -7576,6 +7394,33 @@
                 }
             },
             {
+                "key": "line_cdcwdo1IvF",
+                "source": "stn_IUqd4mcnlQ",
+                "target": "misc_node_9nhvZwzH7y",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
                 "key": "line_TyOiQXI3m-",
                 "source": "stn_myOLTj9Abt",
                 "target": "stn_O8Gy7l3fPw",
@@ -7657,6 +7502,33 @@
                 }
             },
             {
+                "key": "line_Ux3m7U9FBk",
+                "source": "stn_9Deqr3cwXC",
+                "target": "misc_node_Sgkpr-pbX5",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
                 "key": "line_-ylVsL2XPy",
                 "source": "stn_RRPun-l5Uq",
                 "target": "stn_xg_KvZxeWY",
@@ -7684,9 +7556,9 @@
                 }
             },
             {
-                "key": "line_X8hlynb9dP",
-                "source": "stn_I8yjBhm3a-",
-                "target": "stn__FxP7iIHiW",
+                "key": "line_eJRCJpVNlf",
+                "source": "stn_RRPun-l5Uq",
+                "target": "stn_3baT5Uo5nM",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -7695,9 +7567,9 @@
                     "single-color": {
                         "color": [
                             "foshan",
-                            "fs2",
-                            "#f6112e",
-                            "#fff"
+                            "fs1",
+                            "#bbd501",
+                            "#000"
                         ]
                     },
                     "reconcileId": "",
@@ -7873,8 +7745,35 @@
                 }
             },
             {
-                "key": "line_xnQAgdBMxG",
-                "source": "misc_node_grkZzklcjo",
+                "key": "line_SHZrzA2HKB",
+                "source": "stn_3zq1XMVizX",
+                "target": "stn_XYECE54VwR",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "mtr-light-rail",
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "mtr-light-rail": {
+                        "color": [
+                            "foshan",
+                            "tnh1",
+                            "#60b5e5",
+                            "#fff"
+                        ]
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_ejOEQdWd1i",
+                "source": "stn_ZXz8-GG15r",
                 "target": "stn_s3datjSFsm",
                 "attributes": {
                     "visible": true,
@@ -7884,95 +7783,14 @@
                         "startFrom": "from",
                         "offsetFrom": 0,
                         "offsetTo": 0,
-                        "roundCornerFactor": 0
+                        "roundCornerFactor": 10
                     },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "other",
-                            "other",
-                            "#555555",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_eJRCJpVNlf",
-                "source": "stn_RRPun-l5Uq",
-                "target": "stn_3baT5Uo5nM",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
                     "style": "single-color",
                     "single-color": {
                         "color": [
                             "foshan",
-                            "fs1",
-                            "#bbd501",
-                            "#000"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_3b5MKCicuI",
-                "source": "stn_s3datjSFsm",
-                "target": "stn_ZVIOJC9UrG",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "other",
-                            "other",
-                            "#555555",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_7yjY056gFj",
-                "source": "stn_3baT5Uo5nM",
-                "target": "stn_ZVIOJC9UrG",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": -2.5,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "other",
-                            "other",
-                            "#555555",
+                            "fs2",
+                            "#f6112e",
                             "#fff"
                         ]
                     },
@@ -8008,8 +7826,62 @@
                 }
             },
             {
-                "key": "line_wVrh38PZJf",
-                "source": "stn_0l5mQ32uqP",
+                "key": "line_3b5MKCicuI",
+                "source": "stn_s3datjSFsm",
+                "target": "stn_ZVIOJC9UrG",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_xnQAgdBMxG",
+                "source": "misc_node_grkZzklcjo",
+                "target": "stn_s3datjSFsm",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 0
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_7yjY056gFj",
+                "source": "stn_3baT5Uo5nM",
                 "target": "stn_ZVIOJC9UrG",
                 "attributes": {
                     "visible": true,
@@ -8018,15 +7890,15 @@
                     "diagonal": {
                         "startFrom": "from",
                         "offsetFrom": 0,
-                        "offsetTo": 2.5,
+                        "offsetTo": -2.5,
                         "roundCornerFactor": 10
                     },
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "guangzhou",
-                            "gz7",
-                            "#97D700",
+                            "other",
+                            "other",
+                            "#555555",
                             "#fff"
                         ]
                     },
@@ -8062,9 +7934,9 @@
                 }
             },
             {
-                "key": "line_Ux3m7U9FBk",
-                "source": "stn_9Deqr3cwXC",
-                "target": "misc_node_Sgkpr-pbX5",
+                "key": "line_Apm5vf0JyN",
+                "source": "stn_3baT5Uo5nM",
+                "target": "stn_Z1oOFDz--f",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8072,10 +7944,10 @@
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "other",
-                            "other",
-                            "#555555",
-                            "#fff"
+                            "foshan",
+                            "fs1",
+                            "#bbd501",
+                            "#000"
                         ]
                     },
                     "reconcileId": "",
@@ -8089,9 +7961,36 @@
                 }
             },
             {
-                "key": "line_cdcwdo1IvF",
-                "source": "stn_IUqd4mcnlQ",
-                "target": "misc_node_9nhvZwzH7y",
+                "key": "line_wVrh38PZJf",
+                "source": "stn_0l5mQ32uqP",
+                "target": "stn_ZVIOJC9UrG",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 2.5,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "guangzhou",
+                            "gz7",
+                            "#97D700",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_lt6J524B3G",
+                "source": "stn_0l5mQ32uqP",
+                "target": "stn_VkPssP37PT",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8099,9 +7998,9 @@
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "other",
-                            "other",
-                            "#555555",
+                            "guangzhou",
+                            "gz7",
+                            "#97D700",
                             "#fff"
                         ]
                     },
@@ -8278,9 +8177,9 @@
                 }
             },
             {
-                "key": "line_eEbX-ieBPB",
-                "source": "stn_UvRQyuHVpE",
-                "target": "stn_nYMaqpJbv3",
+                "key": "line_DX44a454eX",
+                "source": "stn_nYMaqpJbv3",
+                "target": "stn_2QBll931xf",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8305,9 +8204,9 @@
                 }
             },
             {
-                "key": "line_DX44a454eX",
-                "source": "stn_nYMaqpJbv3",
-                "target": "stn_2QBll931xf",
+                "key": "line_eEbX-ieBPB",
+                "source": "stn_UvRQyuHVpE",
+                "target": "stn_nYMaqpJbv3",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8440,33 +8339,6 @@
                 }
             },
             {
-                "key": "line_lt6J524B3G",
-                "source": "stn_0l5mQ32uqP",
-                "target": "stn_VkPssP37PT",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "guangzhou",
-                            "gz7",
-                            "#97D700",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
                 "key": "line_3VIvoRIsag",
                 "source": "stn_VkPssP37PT",
                 "target": "stn_Z_99dO_KBe",
@@ -8521,9 +8393,9 @@
                 }
             },
             {
-                "key": "line_-HT_miAo7a",
-                "source": "stn_Z1oOFDz--f",
-                "target": "misc_node_XtuOLp6rHb",
+                "key": "line_Ka0IWG6-TI",
+                "source": "stn_Z_99dO_KBe",
+                "target": "stn_Sz60J4IGVT",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8531,9 +8403,9 @@
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "other",
-                            "other",
-                            "#555555",
+                            "guangzhou",
+                            "gz7",
+                            "#97D700",
                             "#fff"
                         ]
                     },
@@ -8548,9 +8420,9 @@
                 }
             },
             {
-                "key": "line_Apm5vf0JyN",
-                "source": "stn_3baT5Uo5nM",
-                "target": "stn_Z1oOFDz--f",
+                "key": "line_-HT_miAo7a",
+                "source": "stn_Z1oOFDz--f",
+                "target": "misc_node_XtuOLp6rHb",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -8558,36 +8430,9 @@
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "foshan",
-                            "fs1",
-                            "#bbd501",
-                            "#000"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_Ka0IWG6-TI",
-                "source": "stn_Z_99dO_KBe",
-                "target": "stn_Sz60J4IGVT",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "guangzhou",
-                            "gz7",
-                            "#97D700",
+                            "other",
+                            "other",
+                            "#555555",
                             "#fff"
                         ]
                     },
@@ -8696,6 +8541,33 @@
                             "guangzhou",
                             "gz7",
                             "#97D700",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_FnsxJN13Om",
+                "source": "stn_PvRP147mvi",
+                "target": "misc_node_yASpJmP5NI",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
                             "#fff"
                         ]
                     },
@@ -8899,6 +8771,33 @@
                 }
             },
             {
+                "key": "line_0ajTWI1ugd",
+                "source": "stn_2W_od5cQ_W",
+                "target": "stn_aYq4F2rJD3",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
                 "key": "line_vW7HLGDOCA",
                 "source": "stn_aYq4F2rJD3",
                 "target": "stn_WN4yKP5hke",
@@ -8953,22 +8852,56 @@
                 }
             },
             {
-                "key": "line_ZZtp3Y8nHQ",
-                "source": "misc_node_BhMC5U54rV",
-                "target": "misc_node_t0nvFZBF03",
+                "key": "line_UZAlOfNUAf",
+                "source": "stn_LhMVhY7KFn",
+                "target": "misc_node_iYBXzRwwiy",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
                     "type": "diagonal",
-                    "style": "gzmtr-virtual-int",
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
                     "reconcileId": "",
-                    "gzmtr-virtual-int": {},
                     "diagonal": {
                         "startFrom": "from",
                         "offsetFrom": 0,
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_IxOOlQddG5",
+                "source": "stn_B3PwJrntf9",
+                "target": "misc_node_iYBXzRwwiy",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 8
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
                     "parallelIndex": -1
                 }
             },
@@ -8995,6 +8928,26 @@
                             "#60b5e5",
                             "#fff"
                         ]
+                    },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_ZZtp3Y8nHQ",
+                "source": "misc_node_BhMC5U54rV",
+                "target": "misc_node_t0nvFZBF03",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "diagonal",
+                    "style": "gzmtr-virtual-int",
+                    "reconcileId": "",
+                    "gzmtr-virtual-int": {},
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
                     },
                     "parallelIndex": -1
                 }
@@ -9054,22 +9007,14 @@
                 }
             },
             {
-                "key": "line_FnsxJN13Om",
-                "source": "stn_PvRP147mvi",
-                "target": "misc_node_yASpJmP5NI",
+                "key": "line_Kha7hE1SuJ",
+                "source": "stn_lELPTH-kOu",
+                "target": "stn_zZKadQuCko",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
                     "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "other",
-                            "other",
-                            "#555555",
-                            "#fff"
-                        ]
-                    },
+                    "style": "mtr-light-rail",
                     "reconcileId": "",
                     "diagonal": {
                         "startFrom": "from",
@@ -9077,40 +9022,21 @@
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_08fgFk2t4j",
-                "source": "stn_F7DCqYVRxo",
-                "target": "stn_Vo3ZByLr2A",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
+                    "mtr-light-rail": {
                         "color": [
                             "foshan",
-                            "fs3",
-                            "#002da0",
+                            "tnh1",
+                            "#60b5e5",
                             "#fff"
                         ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
                     },
                     "parallelIndex": -1
                 }
             },
             {
-                "key": "line_mmu1y80qAT",
-                "source": "stn_pJB3x4bo3e",
-                "target": "stn_SDuzCrEoZL",
+                "key": "line_xL64A_ptAw",
+                "source": "stn_SDuzCrEoZL",
+                "target": "stn_Bc7_Y5ZrY8",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -9131,6 +9057,33 @@
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_KP7y8UMNo_",
+                "source": "stn_Bc7_Y5ZrY8",
+                "target": "misc_node_-MQoP5HfV0",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "perpendicular",
+                    "perpendicular": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs2",
+                            "#f6112e",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
                     "parallelIndex": -1
                 }
             },
@@ -9158,6 +9111,33 @@
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_ehpRp6D1Vi",
+                "source": "stn__2osNrVQrO",
+                "target": "misc_node_-MQoP5HfV0",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": -5,
+                    "type": "perpendicular",
+                    "perpendicular": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs2",
+                            "#f6112e",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
                     "parallelIndex": -1
                 }
             },
@@ -9238,33 +9218,6 @@
                         "offsetFrom": 0,
                         "offsetTo": 0,
                         "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_Kha7hE1SuJ",
-                "source": "stn_lELPTH-kOu",
-                "target": "stn_zZKadQuCko",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "mtr-light-rail": {
-                        "color": [
-                            "foshan",
-                            "tnh1",
-                            "#60b5e5",
-                            "#fff"
-                        ]
                     },
                     "parallelIndex": -1
                 }
@@ -9513,60 +9466,6 @@
                 }
             },
             {
-                "key": "line_SHZrzA2HKB",
-                "source": "stn_3zq1XMVizX",
-                "target": "stn_XYECE54VwR",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "mtr-light-rail": {
-                        "color": [
-                            "foshan",
-                            "tnh1",
-                            "#60b5e5",
-                            "#fff"
-                        ]
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_fauGORDDFb",
-                "source": "stn_Vo3ZByLr2A",
-                "target": "stn_CYYgjuaKsQ",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
                 "key": "line_j9x_Yf7Kvk",
                 "source": "stn_ccmFv4NUsh",
                 "target": "stn_CYYgjuaKsQ",
@@ -9675,8 +9574,8 @@
                 }
             },
             {
-                "key": "line_1i7nzmNLKg",
-                "source": "stn_9LdDrnTzRG",
+                "key": "line_rlp6rwnnrg",
+                "source": "stn_P7dNc-cg4g",
                 "target": "stn_9LdDrnTzRG",
                 "attributes": {
                     "visible": true,
@@ -9686,7 +9585,7 @@
                         "startFrom": "from",
                         "offsetFrom": 0,
                         "offsetTo": 0,
-                        "roundCornerFactor": 18.33
+                        "roundCornerFactor": 10
                     },
                     "style": "single-color",
                     "single-color": {
@@ -9702,8 +9601,8 @@
                 }
             },
             {
-                "key": "line_rlp6rwnnrg",
-                "source": "stn_P7dNc-cg4g",
+                "key": "line_1i7nzmNLKg",
+                "source": "stn_9LdDrnTzRG",
                 "target": "stn_9LdDrnTzRG",
                 "attributes": {
                     "visible": true,
@@ -9713,7 +9612,7 @@
                         "startFrom": "from",
                         "offsetFrom": 0,
                         "offsetTo": 0,
-                        "roundCornerFactor": 10
+                        "roundCornerFactor": 18.33
                     },
                     "style": "single-color",
                     "single-color": {
@@ -9860,195 +9759,6 @@
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_4ovEm8DdYO",
-                "source": "misc_node_0CvBrml-iJ",
-                "target": "misc_node_gzNZ4v8tDE",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 0
-                    },
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "mtr-light-rail": {
-                        "color": [
-                            "guangzhou",
-                            "fsmtr",
-                            "#565656",
-                            "#fff"
-                        ]
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_5C27qe6OP7",
-                "source": "misc_node_0CvBrml-iJ",
-                "target": "misc_node_1Z59N9aZ-r",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 0
-                    },
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "mtr-light-rail": {
-                        "color": [
-                            "guangzhou",
-                            "fsmtr",
-                            "#565656",
-                            "#fff"
-                        ]
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_oHFawhjUN0",
-                "source": "misc_node_0owNnmq9do",
-                "target": "misc_node_1Z59N9aZ-r",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 0
-                    },
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "mtr-light-rail": {
-                        "color": [
-                            "guangzhou",
-                            "fsmtr",
-                            "#565656",
-                            "#fff"
-                        ]
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_KQFQflYaKM",
-                "source": "misc_node_0owNnmq9do",
-                "target": "misc_node_gzNZ4v8tDE",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 0
-                    },
-                    "style": "mtr-light-rail",
-                    "reconcileId": "",
-                    "mtr-light-rail": {
-                        "color": [
-                            "guangzhou",
-                            "fsmtr",
-                            "#565656",
-                            "#fff"
-                        ]
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_xL64A_ptAw",
-                "source": "stn_SDuzCrEoZL",
-                "target": "stn_Bc7_Y5ZrY8",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs2",
-                            "#f6112e",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_KP7y8UMNo_",
-                "source": "stn_Bc7_Y5ZrY8",
-                "target": "misc_node_-MQoP5HfV0",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs2",
-                            "#f6112e",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_ehpRp6D1Vi",
-                "source": "stn__2osNrVQrO",
-                "target": "misc_node_-MQoP5HfV0",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "perpendicular",
-                    "perpendicular": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs2",
-                            "#f6112e",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
                     "parallelIndex": -1
                 }
             },
@@ -10473,82 +10183,29 @@
                 }
             },
             {
-                "key": "line_0ajTWI1ugd",
-                "source": "stn_2W_od5cQ_W",
-                "target": "stn_aYq4F2rJD3",
+                "key": "line_YLYSieZD5p",
+                "source": "misc_node_AF5aJzyHEc",
+                "target": "misc_node_1sJL6VyGWJ",
                 "attributes": {
                     "visible": true,
-                    "zIndex": -5,
+                    "zIndex": -10,
                     "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
                     "diagonal": {
                         "startFrom": "from",
                         "offsetFrom": 0,
                         "offsetTo": 0,
                         "roundCornerFactor": 10
                     },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_IxOOlQddG5",
-                "source": "stn_B3PwJrntf9",
-                "target": "misc_node_iYBXzRwwiy",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 8
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
-                            "#fff"
-                        ]
-                    },
+                    "style": "river",
                     "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_UZAlOfNUAf",
-                "source": "stn_LhMVhY7KFn",
-                "target": "misc_node_iYBXzRwwiy",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "style": "single-color",
-                    "single-color": {
+                    "river": {
                         "color": [
-                            "foshan",
-                            "fs3",
-                            "#002da0",
+                            "shanghai",
+                            "river",
+                            "#9EE3F9",
                             "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
+                        ],
+                        "width": 10
                     },
                     "parallelIndex": -1
                 }
@@ -10577,34 +10234,6 @@
                         "offsetFrom": 0,
                         "offsetTo": 0,
                         "roundCornerFactor": 10
-                    },
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_YLYSieZD5p",
-                "source": "misc_node_AF5aJzyHEc",
-                "target": "misc_node_1sJL6VyGWJ",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -10,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "river",
-                    "reconcileId": "",
-                    "river": {
-                        "color": [
-                            "shanghai",
-                            "river",
-                            "#9EE3F9",
-                            "#fff"
-                        ],
-                        "width": 10
                     },
                     "parallelIndex": -1
                 }
@@ -10907,33 +10536,6 @@
                 }
             },
             {
-                "key": "line__13rXYKBXx",
-                "source": "misc_node_a7RtMSwcj1",
-                "target": "stn_3qJp8KLBQc",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": -5,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "other",
-                            "other",
-                            "#555555",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
                 "key": "line_wp9tMv0KVg",
                 "source": "misc_node_BKbh8IjoXj",
                 "target": "stn_1DsVk5ppPA",
@@ -10961,9 +10563,9 @@
                 }
             },
             {
-                "key": "line_rIcIr0kyKq",
-                "source": "misc_node_KsHOj9Qcfc",
-                "target": "stn_gxlS7E4yY3",
+                "key": "line__13rXYKBXx",
+                "source": "misc_node_a7RtMSwcj1",
+                "target": "stn_3qJp8KLBQc",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -11015,9 +10617,9 @@
                 }
             },
             {
-                "key": "line_ejOEQdWd1i",
-                "source": "stn_ZXz8-GG15r",
-                "target": "stn_s3datjSFsm",
+                "key": "line_rIcIr0kyKq",
+                "source": "misc_node_KsHOj9Qcfc",
+                "target": "stn_gxlS7E4yY3",
                 "attributes": {
                     "visible": true,
                     "zIndex": -5,
@@ -11031,9 +10633,9 @@
                     "style": "single-color",
                     "single-color": {
                         "color": [
-                            "foshan",
-                            "fs2",
-                            "#f6112e",
+                            "other",
+                            "other",
+                            "#555555",
                             "#fff"
                         ]
                     },
@@ -11116,9 +10718,9 @@
                 }
             },
             {
-                "key": "line_OSLQNw8Twf",
-                "source": "misc_node_Z8qBI5CHPH",
-                "target": "misc_node_kJ87SH5lt7",
+                "key": "line_k9NlOMkkFw",
+                "source": "misc_node_9UZ3N1Y52P",
+                "target": "misc_node_y_I_ftIIjD",
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
@@ -11136,9 +10738,9 @@
                 }
             },
             {
-                "key": "line_k9NlOMkkFw",
-                "source": "misc_node_9UZ3N1Y52P",
-                "target": "misc_node_y_I_ftIIjD",
+                "key": "line_OSLQNw8Twf",
+                "source": "misc_node_Z8qBI5CHPH",
+                "target": "misc_node_kJ87SH5lt7",
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
@@ -11223,63 +10825,9 @@
                 }
             },
             {
-                "key": "line_PnknOq2psj",
-                "source": "stn_yGZmZcjcFn",
-                "target": "misc_node_znVF7625j9",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 0,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs1",
-                            "#bbd501",
-                            "#000"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
                 "key": "line_GsmOv-hTFd",
                 "source": "misc_node_Mn3XZHWn1e",
                 "target": "stn_x8vgX_TCKl",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 0,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "foshan",
-                            "fs2",
-                            "#f6112e",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_2U1PcIz2kk",
-                "source": "stn_x8vgX_TCKl",
-                "target": "misc_node_u9DupnWTue",
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
@@ -11323,6 +10871,60 @@
                             "foshan",
                             "fs3",
                             "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_PnknOq2psj",
+                "source": "stn_yGZmZcjcFn",
+                "target": "misc_node_znVF7625j9",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs1",
+                            "#bbd501",
+                            "#000"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_2U1PcIz2kk",
+                "source": "stn_x8vgX_TCKl",
+                "target": "misc_node_u9DupnWTue",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs2",
+                            "#f6112e",
                             "#fff"
                         ]
                     },
@@ -11376,34 +10978,7 @@
                         "color": [
                             "guangzhou",
                             "gz7",
-                            "#97d700",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_GNa9KVUhDi",
-                "source": "stn_IBUTnCsJVk",
-                "target": "misc_node_jtIkBcksDO",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 0,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "guangzhou",
-                            "gz7",
-                            "#97d700",
+                            "#97D700",
                             "#fff"
                         ]
                     },
@@ -11415,33 +10990,6 @@
                 "key": "line_3N-vgBHaLL",
                 "source": "misc_node_EHUtEwD0ES",
                 "target": "stn_jXNQYLF6gp",
-                "attributes": {
-                    "visible": true,
-                    "zIndex": 0,
-                    "type": "diagonal",
-                    "diagonal": {
-                        "startFrom": "from",
-                        "offsetFrom": 0,
-                        "offsetTo": 0,
-                        "roundCornerFactor": 10
-                    },
-                    "style": "single-color",
-                    "single-color": {
-                        "color": [
-                            "guangzhou",
-                            "fsmtr",
-                            "#565656",
-                            "#fff"
-                        ]
-                    },
-                    "reconcileId": "",
-                    "parallelIndex": -1
-                }
-            },
-            {
-                "key": "line_8samCldAzf",
-                "source": "stn_jXNQYLF6gp",
-                "target": "misc_node_-gW9RArJ9P",
                 "attributes": {
                     "visible": true,
                     "zIndex": 0,
@@ -11490,6 +11038,60 @@
                             "#fff"
                         ]
                     }
+                }
+            },
+            {
+                "key": "line_GNa9KVUhDi",
+                "source": "stn_IBUTnCsJVk",
+                "target": "misc_node_jtIkBcksDO",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "guangzhou",
+                            "gz7",
+                            "#97D700",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_8samCldAzf",
+                "source": "stn_jXNQYLF6gp",
+                "target": "misc_node_-gW9RArJ9P",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "guangzhou",
+                            "fsmtr",
+                            "#565656",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
                 }
             },
             {
@@ -11598,8 +11200,116 @@
                     "parallelIndex": -1,
                     "gzmtr-virtual-int": {}
                 }
+            },
+            {
+                "key": "line__YZo8pPWmJ",
+                "source": "stn_zQXAN9bbbE",
+                "target": "stn_seizV6b0aO",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_bsohXkqn5o",
+                "source": "stn_seizV6b0aO",
+                "target": "stn_OkOLpwIIUt",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_4gP8Mi13fE",
+                "source": "stn_OkOLpwIIUt",
+                "target": "stn_zvYyINMNLf",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "foshan",
+                            "fs3",
+                            "#002da0",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
+            },
+            {
+                "key": "line_o266qrjO2Y",
+                "source": "misc_node_ugX3xu0TGi",
+                "target": "misc_node_EgYjymaTrZ",
+                "attributes": {
+                    "visible": true,
+                    "zIndex": 0,
+                    "type": "diagonal",
+                    "diagonal": {
+                        "startFrom": "from",
+                        "offsetFrom": 0,
+                        "offsetTo": 0,
+                        "roundCornerFactor": 10
+                    },
+                    "style": "single-color",
+                    "single-color": {
+                        "color": [
+                            "other",
+                            "other",
+                            "#555555",
+                            "#fff"
+                        ]
+                    },
+                    "reconcileId": "",
+                    "parallelIndex": -1
+                }
             }
         ]
     },
-    "version": 53
+    "version": 76
 }
